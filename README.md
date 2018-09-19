@@ -1,25 +1,13 @@
 # homework
 
-* perl/ 
+* perl practice
 
-  perl practice
+* py27 python27 practice
 
-* py27/
+* py3 python3 practice
 
-  python27 practice
+* ml practice based on python3
 
-* py3/
+* musicBat a music downloader based on python
 
-  python3 practice
-
-* ml/
-  
-  ml practice based on python3
-
-* musicBat/
-
-  a music downloader based on python
-
-* talkingData/
-
-  ml competition
+* talkingData ml competition
