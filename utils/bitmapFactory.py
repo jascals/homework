@@ -9,7 +9,7 @@ def compressImage(fromPath,toPath):
         w,h=sImg.size  
         print(w)
         print(h)
-        dImg=sImg.resize((w/2,h/2),Image.ANTIALIAS)
+        dImg=sImg.resize((int(w/2),int(h/2)),Image.ANTIALIAS)
         dImg.save(toPath)
         print("succeed")
 if __name__=='__main__':  
